@@ -1,5 +1,9 @@
-### Hi there 👋
+Hello!👋 My name is Nicola. I am from Trento University taking MS Artificial Intelligence Systems.
 
+**Skills:**
+Analytical Skills  |  
+
+- 📫 How to reach me: nicola.maestri00@gmail.com
 <!--
 **NicolaMaestri00/NicolaMaestri00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
