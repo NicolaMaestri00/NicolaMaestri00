@@ -1,4 +1,6 @@
-Hello!👋 My name is Nicola. I am from Trento University taking MS Artificial Intelligence Systems.
+Hello!👋 My name is Nicola. 
+I'm interested in Mathematics and its applications in Computer Science and Physics.
+I'm currently enrolled in the Master's Degree course in Artificial Intelligence Systems at the University of Trento.
 
 **Skills:**
 Analytical Skills  |  Development  |  Time Management
