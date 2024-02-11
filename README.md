@@ -5,9 +5,10 @@ I'm enrolled in the Master's Degree course in Artificial Intelligence Systems at
 - 🔭 I’m currently learning how to develop visual models
 - 📫 How to reach me: nicola.maestri00@gmail.com
 
+<!--
 **Skills:**
 Analytical Skill  |  Flexibility  |  Attention to detail
-
+-->
 <!--
 **NicolaMaestri00/NicolaMaestri00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
