@@ -3,9 +3,6 @@
 I'm interested in **Mathematics** and its applications in **Computer Science** and **Physics**.  
 Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at the University of Trento.
 
-🔭 I'm currently learning how to develop visual models  
-📫 Reach me at: nicola.maestri00@gmail.com
-
 ---
 
 ## 📚 Featured Projects
