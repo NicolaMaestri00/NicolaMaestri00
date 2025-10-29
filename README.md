@@ -9,22 +9,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 ---
 
 ## 📚 Featured Projects
-
-### Artificial Intelligence & Machine Learning
-- **[Project Name](link)** – Brief description of what this project does
-- **[Project Name](link)** – Brief description of what this project does
-
-### Computer Vision
-- **[Project Name](link)** – Brief description of what this project does
-- **[Project Name](link)** – Brief description of what this project does
-
-### Mathematics & Algorithms
-- **[Project Name](link)** – Brief description of what this project does
-- **[Project Name](link)** – Brief description of what this project does
-
-### Physics Applications
-- **[Project Name](link)** – Brief description of what this project does
-- **[Project Name](link)** – Brief description of what this project does
+- [Natural-Language-Understanding](https://github.com/NicolaMaestri00/Natural-Language-Understanding)
 
 ---
 
