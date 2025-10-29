@@ -7,7 +7,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 
 ## 📚 Featured Projects
 
-- 🗺️ **[High Resolution Land Cover Mapping](link)** – extracting land cover maps from sentinel 2 imagery
+- 🗺️ **[High Resolution Land Cover Mapping](https://github.com/NicolaMaestri00/High-Resolution-Land-Cover-Mapping?tab=readme-ov-file)** – extracting land cover maps from sentinel 2 imagery
 - 💬 **[Natural Language Understanding](https://github.com/NicolaMaestri00/Natural-Language-Understanding)** – simple language model for joint intent classification and slot filling
 
 ---
