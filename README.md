@@ -28,6 +28,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 
 ---
 
+<!--
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
@@ -59,9 +60,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 
 ---
 
-*Feel free to explore my repositories and reach out for collaborations!*
-
-
+-->
 
 <!--
 Hello!👋 My name is Nicola.\
