@@ -9,9 +9,22 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 ---
 
 ## 📚 Featured Projects
-- [Natural-Language-Understanding](https://github.com/NicolaMaestri00/Natural-Language-Understanding)
+
+- **[High Resolution Land Cover Mapping](link)** – Computer vision project for semantic segmentation of satellite imagery
+- **[Natural Language Understanding](https://github.com/NicolaMaestri00/Natural-Language-Understanding)** – NLU models and techniques for text analysis and language processing
 
 ---
+
+## 📬 Connect With Me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicola.maestri00@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NicolaMaestri00)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+
+---
+
+*Feel free to explore my repositories and reach out for collaborations!*
+
 
 <!--
 ## 🛠️ Technologies & Tools
