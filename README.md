@@ -11,7 +11,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 - 🖼️ **[CLIP for Visual Grounding](https://github.com/NicolaMaestri00/Deep-Learning)** - exploring Transfer Learning for Visual Grounding
 - 🔤 **[Natural Language Understanding](https://github.com/NicolaMaestri00/Natural-Language-Understanding)** – simple language model for joint intent classification and slot filling
 - 🕸️ **[Graph Neural Networks](https://github.com/NicolaMaestri00/Few-Shot-Learning-on-Graph-Neural-Networks)** - exploring Few-Shot Learning on Graphs
-- 🦾 **[Introduction to Robotics](https://github.com/NicolaMaestri00/Introduction-to-Robotics)** - design of a robotic arm to automate microphone delivery in a small conference room
+- 🦾 **[Introduction to Robotics](https://github.com/NicolaMaestri00/Introduction-to-Robotics)** - robotic arm for microphone delivery in a conference room
 ---
 
 ## 📬 Contact
