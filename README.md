@@ -18,7 +18,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 
 ---
 
-## 🧑‍💻 Scientific High School: Computer Science Labaoratories 
+## 🧑‍💻 Computer Science Labaoratories 
 > [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Nima-00)  | 🏫 **I.I. Lorenzo Guetti** | 🔬 **Indirizzo Scienze Applicate** | 📅 **A.S. 2025/2026** 
 
 Collection of laboratories developed for Scientific High School option Applied Science scolastic year 2025/2026 at Istituto Lorenzo Guetti.
