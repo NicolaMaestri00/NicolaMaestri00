@@ -7,7 +7,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 
 ## 📚 Featured Projects
 
-- 🗺️ **[Multi-Level Semantic consensus: a novel framework for Weakly Supervised Land Cover Mapping](https://github.com/NicolaMaestri00/High-Resolution-Land-Cover-Mapping)**
+- 🗺️ **[Multi-Level Semantic consensus: a novel framework for Weakly Supervised Land Cover Mapping](https://github.com/NicolaMaestri00/MLSC)**
 - 🖼️ **[CLIP for Visual Grounding](https://github.com/NicolaMaestri00/Deep-Learning)**
 - 🔤 **[Introduction to Natural Language Processing](https://github.com/NicolaMaestri00/Natural-Language-Understanding)**
 - 🦾 **[Introduction to Robotics](https://github.com/NicolaMaestri00/Introduction-to-Robotics)**
