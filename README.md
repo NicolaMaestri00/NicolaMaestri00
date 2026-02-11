@@ -32,9 +32,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 
 ---
 
-## 🧑‍💻 Scientific High School: Computer Science Labaoratories
-
-
+## 🧑‍💻 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Nima-00) Scientific High School: Computer Science Labaoratories 
 
 ---
 
