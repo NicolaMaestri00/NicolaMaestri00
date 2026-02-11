@@ -32,6 +32,12 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 
 ---
 
+## 🧑‍💻 Scientific High School: Computer Science Labaoratories
+
+
+
+---
+
 ## 📬 Contact
 
 ✉️ nicola.maestri00@gmail.com
