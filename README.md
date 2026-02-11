@@ -32,7 +32,16 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 
 ---
 
-## 🧑‍💻 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Nima-00) Scientific High School: Computer Science Labaoratories 
+## 🧑‍💻 Scientific High School: Computer Science Labaoratories 
+> 🏫 **I.I. Lorenzo Guetti** | 🔬 **Indirizzo Scienze Applicate** | 📅 **A.S. 2025/2026** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Nima-00) 
+
+Collection of laboratories developed for Scientific High School option Applied Science scolastic year 2025/2026 at Istituto Lorenzo Guetti.
+
+1. 📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
+2. ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
+3. 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
+4. 🎆 [Laboratorio: Il Frattale di Mandelbrot](https://github.com/Nima-00/frattale_di_mandelbrot)
+5. 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
 
 ---
 
