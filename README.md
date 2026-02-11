@@ -10,11 +10,11 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 - 🗺️ **[Multi-Level Semantic consensus: a novel framework for Weakly Supervised Land Cover Mapping](https://github.com/NicolaMaestri00/MLSC)**
 - 🖼️ **[Transfer Learning: adapting CLIP for Visual Grounding](https://github.com/NicolaMaestri00/Deep-Learning)**
 - 🔤 **[Natural Language Processing: intent classification and slot filling](https://github.com/NicolaMaestri00/Natural-Language-Understanding)**
-- 🦾 **[Introduction to Robotics: a robotic arm for microphone handling in a conference room](https://github.com/NicolaMaestri00/Introduction-to-Robotics)**
 - 🕸️ **[Few-Shot Learning on Graph Neural Networks](https://github.com/NicolaMaestri00/Few-Shot-Learning-on-Graph-Neural-Networks)**
 - 🧬 **[Heuristic Optimization Algorithms: Genetic Algorithms for Weighted s-plex Editing Problem (WsPEP)](https://github.com/NicolaMaestri00/Heuristic-Optimization-Algorithms)**
 - 🔢 **[Machine Learning on MNIST: GANs vs VAEs](https://github.com/NicolaMaestri00/MNIST_collection)**
 - 👁️ **[Fundamentals of Computer Vision: from image stitching to classification algorithms](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision)**
+- 🦾 **[Introduction to Robotics: a robotic arm for microphone handling in a conference room](https://github.com/NicolaMaestri00/Introduction-to-Robotics)**
 
 ---
 
