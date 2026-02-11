@@ -8,13 +8,13 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 ## 📚 Featured Projects
 
 - 🗺️ **[Multi-Level Semantic consensus: a novel framework for Weakly Supervised Land Cover Mapping](https://github.com/NicolaMaestri00/MLSC)**
-- 🖼️ **[CLIP for Visual Grounding](https://github.com/NicolaMaestri00/Deep-Learning)**
-- 🔤 **[Introduction to Natural Language Processing](https://github.com/NicolaMaestri00/Natural-Language-Understanding)**
-- 🦾 **[Introduction to Robotics](https://github.com/NicolaMaestri00/Introduction-to-Robotics)**
-- 🕸️ **[Introduction to Graph Neural Networks](https://github.com/NicolaMaestri00/Few-Shot-Learning-on-Graph-Neural-Networks)**
-- 🧬 **[Introduction to Heuristic Optimization Algorithms](https://github.com/NicolaMaestri00/Heuristic-Optimization-Algorithms)**
-- 🔢 **[Introduction to Machine Learning](https://github.com/NicolaMaestri00/MNIST_collection)**
-- 👁️ **[Introduction to Computer Vision](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision)**
+- 🖼️ **[Transfer Learning: adapting CLIP for Visual Grounding](https://github.com/NicolaMaestri00/Deep-Learning)**
+- 🔤 **[Natural Language Processing: intent classification and slot filling](https://github.com/NicolaMaestri00/Natural-Language-Understanding)**
+- 🦾 **[Introduction to Robotics: a robotic arm for microphone handling in a conference room](https://github.com/NicolaMaestri00/Introduction-to-Robotics)**
+- 🕸️ **[Few-Shot Learning on Graph Neural Networks](https://github.com/NicolaMaestri00/Few-Shot-Learning-on-Graph-Neural-Networks)**
+- 🧬 **[Heuristic Optimization Algorithms: Genetic Algorithms for Weighted s-plex Editing Problem (WsPEP)](https://github.com/NicolaMaestri00/Heuristic-Optimization-Algorithms)**
+- 🔢 **[Machine Learning on MNIST: GANs vs VAEs](https://github.com/NicolaMaestri00/MNIST_collection)**
+- 👁️ **[Fundamentals of Computer Vision: from image stitching to classification algorithms](https://github.com/NicolaMaestri00/Fundamentals-of-Computer-Vision)**
 
 ---
 
