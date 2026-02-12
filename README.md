@@ -6,7 +6,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 ---
 
 ## 📚 Featured Projects
-> 🏫 **University of Trento** | 🧑‍💻 **Department of Information Engineering and Computer Science** |🎓 **M.S. Artificial Intelligence Systems**
+> 🏫 **University of Trento** | 🧑‍💻 **Department of Information Engineering and Computer Science** |🎓 **Artificial Intelligence Systems**
 
 - 🗺️ **[Multi-Level Semantic Consensus: a novel framework for Weakly Supervised Land Cover Mapping](https://github.com/NicolaMaestri00/MLSC) [Master's Thesis]**
 - 🖼️ **[Transfer Learning: adapting CLIP for Visual Grounding](https://github.com/NicolaMaestri00/Deep-Learning)**
