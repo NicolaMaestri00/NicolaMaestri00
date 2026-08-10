@@ -22,13 +22,23 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 ---
 
 ## 🧑‍🏫 High School Teaching — Computer Science Labs 
-> 🏫 **I.I. Lorenzo Guetti** | 🔬 **Scientific High School -  Applied Science track** | 📅 **A.S. 2025/2026** | 🔗 [**GitHub profile**](https://github.com/Nima-00)
+> 🏫 **I.I. Lorenzo Guetti** | 🔬 **Scientific High School -  Applied Science track** | 📅 **A.S. 2025/2026** 
 
-1. 📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
-2. ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
-3. 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
-4. 🎆 [Laboratorio: Il Frattale di Mandelbrot](https://github.com/Nima-00/frattale_di_mandelbrot)
-5. 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
+🔗 **GitHub profile:** [**https://github.com/Nima-00**](https://github.com/Nima-00)
+
+### Teoria:
+- ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Teoria-Introduzione-Elettronica-Digitale)
+- 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Teoria-Introduzione-LaTeX)
+- 🐍 [Introduzione a Python](https://github.com/Nima-00/Teoria-Introduzione-Python)
+- ⚙️ [Introduzione a C++](https://github.com/Nima-00/Teoria-Introduzione-Cpp)
+- 📦 [Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Teoria-Python-OOP)
+
+### Laboratori Interdisciplinari:
+1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Lab-Monitoraggio-Ambientale-con-Copernicus)
+2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Lab-Gravitazione-ad-Oggetti)
+3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Lab-Sensi-e-Sensori)
+4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Lab-Insieme-di-Mandelbrot)
+5. 🏞️ [Image-Stitching: come creare una foto panoramica](https://github.com/Nima-00/Lab-Image-stitching)
 
 ---
 
