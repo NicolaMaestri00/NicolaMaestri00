@@ -34,11 +34,11 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 - 📦 [Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Teoria-Python-OOP)
 
 ### Laboratori Interdisciplinari:
-1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Lab-Monitoraggio-Ambientale-con-Copernicus)
-2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Lab-Gravitazione-ad-Oggetti)
-3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Lab-Sensi-e-Sensori)
-4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Lab-Insieme-di-Mandelbrot)
-5. 🏞️ [Image-Stitching: come creare una foto panoramica](https://github.com/Nima-00/Lab-Image-stitching)
+- 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Lab-Monitoraggio-Ambientale-con-Copernicus)
+- 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Lab-Gravitazione-ad-Oggetti)
+- 🎧 [Sensi e Sensori](https://github.com/Nima-00/Lab-Sensi-e-Sensori)
+- ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Lab-Insieme-di-Mandelbrot)
+- 🏞️ [Image-Stitching: come creare una foto panoramica](https://github.com/Nima-00/Lab-Image-stitching)
 
 ---
 
