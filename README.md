@@ -6,6 +6,7 @@ Currently pursuing a Master's Degree in **Artificial Intelligence Systems** at t
 ---
 
 ## 🎓 Master Thesis
+> 🏫 **University of Trento** | 🛰️ **Remote Sensing Lab** | 📅 **A.Y. 2024/2025**
 - 🗺️ [Multi-Level Semantic Consensus: a novel framework for Weakly Supervised Land Cover Mapping](https://github.com/NicolaMaestri00/Weakly-Supervised-Land-Cover-Mapping)
 
 
